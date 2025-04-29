@@ -1,6 +1,6 @@
 A comprehensive web application for early detection and classification of skin lesions using deep learning. Built with Django, it uses Convolutional Neural Networks (CNNs) to predict whether a lesion is present and identify its type. The app download a PDF report of the prediction.
 
-Features:
+A) Features:
 
 1.Skin Lesion Detection – Identifies if a lesion exists (binary classification).
 
@@ -12,7 +12,7 @@ Features:
 
 5.User Authentication – Includes login, signup, and logout features.
 
-Technologies Used:
+B) Technologies Used:
 
 1.Backend: Python, Django
 
